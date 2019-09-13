@@ -1,9 +1,4 @@
-/*
- * @Author: Anooj Krishnan G 
- * @Date: 2019-05-05 15:33:42 
- * @Last Modified by: Anooj Krishnan G
- * @Last Modified time: 2019-05-28 00:46:21
- */
+
 import React from 'react';
 import {AsyncStorage} from 'react-native';
 import {Actions} from 'react-native-router-flux';
